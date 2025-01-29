@@ -30,3 +30,13 @@ A True Innovation
 ### 🔹 **Neuromorphic Security**
 - **eBPF-driven real-time intrusion detection** at kernel level.
 - Evolutionary fuzzing techniques for **adaptive adversarial validation**.
+
+---
+
+## ⚙️ System Architecture
+
+### **Genesis Cell** (`infra/genesis_cell.py`)
+> **The AI Cell Deployment Engine**
+- Uses **Dagger** and **Kubernetes** for **self-provisioning AI cells**.
+- Deploys infrastructure on **Hetzner Cloud** in **latency-optimized regions**.
+- Utilizes a **Kubernetes operator pattern** for **auto-scaling AI compute**.
