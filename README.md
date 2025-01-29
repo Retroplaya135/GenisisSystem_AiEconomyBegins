@@ -40,3 +40,9 @@ A True Innovation
 - Uses **Dagger** and **Kubernetes** for **self-provisioning AI cells**.
 - Deploys infrastructure on **Hetzner Cloud** in **latency-optimized regions**.
 - Utilizes a **Kubernetes operator pattern** for **auto-scaling AI compute**.
+
+#### **Deployment Flow:**
+1. **Build Hardened AI Containers**
+   - Uses `python:3.12-slim` with **libjemalloc** for optimized memory usage.
+   - Deploys self-compiled **LLM runtimes** with **low-latency quantization (AWQ)**.
+  
