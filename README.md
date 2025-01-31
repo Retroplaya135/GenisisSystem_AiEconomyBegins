@@ -45,7 +45,9 @@ A True Innovation
 1. **Build Hardened AI Containers**
    - Uses `python:3.12-slim` with **libjemalloc** for optimized memory usage.
    - Deploys self-compiled **LLM runtimes** with **low-latency quantization (AWQ)**.
+
+2. **Optimized Cloud Deployment**
   
-2. **Self-Replicating Kubernetes Cells**
+3. **Self-Replicating Kubernetes Cells**
    - Deploys AI Cells (`AICell` Custom Resource) via Kubernetes
   
