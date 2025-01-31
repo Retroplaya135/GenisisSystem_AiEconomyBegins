@@ -74,4 +74,12 @@ A True Innovation
 - Implements **quantum-inspired sampling** for **high-reliability code generation**.
 
 #### **Code Generation Flow:**
-1. **Raw Code Generation**  
+1. **Raw Code Generation**
+      ```python
+   raw_code = llm.generate(
+       prompt=user_prompt,
+       constraints={"cyclomatic": "<10", "memory": "<100MB"},
+       temperature=0.3
+   )
+      ```
+
