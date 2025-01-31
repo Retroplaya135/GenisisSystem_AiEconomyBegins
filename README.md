@@ -51,6 +51,18 @@ A True Innovation
    - Dynamic **energy-aware scheduling** for optimal performance.
 
   
-4. **Self-Replicating Kubernetes Cells**
+3. **Self-Replicating Kubernetes Cells**
    - Deploys AI Cells (`AICell` Custom Resource) via Kubernetes
+     ```yaml
+     apiVersion: genesis.tech/v1alpha1
+     kind: AICell
+     spec:
+       llmRuntime: "groq-mixtral-8x7b"
+       quantization: "awq"
+       autoscaling:
+         min: 3
+         max: 12
+       energyProfile: "carbon-neutral"
+     ```
+
   
