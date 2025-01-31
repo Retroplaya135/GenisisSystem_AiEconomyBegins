@@ -46,3 +46,6 @@ A True Innovation
    - Uses `python:3.12-slim` with **libjemalloc** for optimized memory usage.
    - Deploys self-compiled **LLM runtimes** with **low-latency quantization (AWQ)**.
   
+2. **Self-Replicating Kubernetes Cells**
+   - Deploys AI Cells (`AICell` Custom Resource) via Kubernetes
+  
