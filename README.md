@@ -91,4 +91,7 @@ A True Innovation
    ast = parser.parse(optimized)
    hologram = auditor.project_threats(ast)
    ```
+---
 
+### **Adversarial Validator** (`testing/adversarial_validator.py`)
+> **Quantum-Proof, Chaos-Resistant API Testing**
