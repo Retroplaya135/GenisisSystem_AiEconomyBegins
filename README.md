@@ -47,7 +47,10 @@ A True Innovation
    - Deploys self-compiled **LLM runtimes** with **low-latency quantization (AWQ)**.
 
 2. **Optimized Cloud Deployment**
+   - Latency-aware Hetzner cloud provisioning.
+   - Dynamic **energy-aware scheduling** for optimal performance.
+
   
-3. **Self-Replicating Kubernetes Cells**
+4. **Self-Replicating Kubernetes Cells**
    - Deploys AI Cells (`AICell` Custom Resource) via Kubernetes
   
