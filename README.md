@@ -95,3 +95,5 @@ A True Innovation
 
 ### **Adversarial Validator** (`testing/adversarial_validator.py`)
 > **Quantum-Proof, Chaos-Resistant API Testing**
+- Uses **Zero-Knowledge (ZK) Proofs** for computational verification.
+
