@@ -82,4 +82,8 @@ A True Innovation
        temperature=0.3
    )
       ```
+2. **Energy-Aware Optimization**
+   ```python
+   optimized = energy_model.optimize(code=raw_code, target_device=current_hardware())
+   ```
 
