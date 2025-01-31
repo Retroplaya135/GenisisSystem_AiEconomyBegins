@@ -65,4 +65,7 @@ A True Innovation
        energyProfile: "carbon-neutral"
      ```
 
-  
+  ---
+
+### **NeuroCoder** (`core/neuromorphic_coder.py`)
+> **LLM-Driven Autonomous Code Generation**
