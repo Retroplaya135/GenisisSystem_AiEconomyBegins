@@ -71,5 +71,7 @@ A True Innovation
 > **LLM-Driven Autonomous Code Generation**
 - - Uses **Tree-Sitter** for AST parsing.
 - Employs **TorchScript energy models** for **hardware-aware optimization**.
-- - Implements **quantum-inspired sampling** for **high-reliability code generation**.
+- Implements **quantum-inspired sampling** for **high-reliability code generation**.
 
+#### **Code Generation Flow:**
+1. **Raw Code Generation**  
