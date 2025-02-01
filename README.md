@@ -162,3 +162,5 @@ A True Innovation
    ```python
    kernel_stats = ebpf.get_system_call_stats()
    ```
+2. **Persistent Homology for Anomaly Detection**
+
