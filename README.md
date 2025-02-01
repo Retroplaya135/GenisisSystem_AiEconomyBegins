@@ -119,3 +119,7 @@ A True Innovation
        response = requests.post(service_url, json=payload)
        assert response.status_code != 500
    ```
+
+---
+
+### **Market Maker** (`econ/autonomic_market_maker.py`)
