@@ -139,3 +139,12 @@ A True Innovation
    )
    ```
 2. **Autonomous DeFi Execution**
+    ```python
+   pmm.execute_trade(
+       token_in="GENESIS",
+       token_out="USDC",
+       amount=price,
+       route_optimizer="bellman-ford"
+   )
+   ```
+
