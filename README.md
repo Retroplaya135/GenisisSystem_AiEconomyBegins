@@ -153,3 +153,6 @@ A True Innovation
 ### **Holographic Monitor** (`observability/hologram.py`)
 > **4D Observability with Persistent Homology**
 - **eBPF-based Kernel Runtime Security Instrumentation (KRSI)**.
+- - **Real-time Spacetime Metrics** using **Prometheus**.
+- **Topological Data Analysis (TDA)** for **anomaly prediction**.
+
