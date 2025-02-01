@@ -123,3 +123,5 @@ A True Innovation
 ---
 
 ### **Market Maker** (`econ/autonomic_market_maker.py`)
+> **Self-Optimizing API Pricing & Monetization**
+- **cadCAD multi-agent market simulations** for API price discovery
