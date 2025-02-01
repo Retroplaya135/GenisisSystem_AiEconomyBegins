@@ -111,3 +111,4 @@ A True Innovation
    ```python
    survival_rate = chaos.inject_failures(service_url, scenarios=["network_partition", "cpu_exhaustion"])
    ```
+3. **Adversarial Fuzzing**
