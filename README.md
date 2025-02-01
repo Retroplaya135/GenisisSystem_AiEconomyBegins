@@ -125,3 +125,5 @@ A True Innovation
 ### **Market Maker** (`econ/autonomic_market_maker.py`)
 > **Self-Optimizing API Pricing & Monetization**
 - **cadCAD multi-agent market simulations** for API price discovery
+- Implements **Hyperbolic Bonding Curves** for **supply-demand stabilization**.
+- Executes **autonomous trades** through a **Private Market Maker (PMM)**.
