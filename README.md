@@ -159,3 +159,6 @@ A True Innovation
 
 #### **Monitoring Architecture**
 1. **Live Kernel Observability**
+   ```python
+   kernel_stats = ebpf.get_system_call_stats()
+   ```
