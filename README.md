@@ -130,3 +130,11 @@ A True Innovation
 
 #### **Automated Market Intelligence**
 1. **Schelling Point Price Discovery**
+   ```python
+   configs.append(
+       config_sim({
+           'N': 100,  # Simulate 100 artificial traders
+           'M': {'pricing_mechanism': ['balancer', 'uniswap_v3', 'pmm']}
+       })
+   )
+   ```
