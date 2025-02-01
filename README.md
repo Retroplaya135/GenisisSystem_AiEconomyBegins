@@ -115,3 +115,7 @@ A True Innovation
   ```python
    @hypothesis.settings(deadline=2000)
    @hypothesis.given(fuzzer.generate_malicious_payloads())
+   def test_resilience(payload):
+       response = requests.post(service_url, json=payload)
+       assert response.status_code != 500
+   ```
