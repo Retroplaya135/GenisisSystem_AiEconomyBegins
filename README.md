@@ -127,3 +127,6 @@ A True Innovation
 - **cadCAD multi-agent market simulations** for API price discovery
 - Implements **Hyperbolic Bonding Curves** for **supply-demand stabilization**.
 - Executes **autonomous trades** through a **Private Market Maker (PMM)**.
+
+#### **Automated Market Intelligence**
+1. **Schelling Point Price Discovery**
