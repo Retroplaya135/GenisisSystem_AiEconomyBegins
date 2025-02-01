@@ -148,3 +148,6 @@ A True Innovation
    )
    ```
 
+---
+
+### **Holographic Monitor** (`observability/hologram.py`)
