@@ -151,3 +151,5 @@ A True Innovation
 ---
 
 ### **Holographic Monitor** (`observability/hologram.py`)
+> **4D Observability with Persistent Homology**
+- **eBPF-based Kernel Runtime Security Instrumentation (KRSI)**.
