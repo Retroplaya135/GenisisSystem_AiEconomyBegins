@@ -165,4 +165,5 @@ A True Innovation
 2. **Persistent Homology for Anomaly Detection**
    ```python
    persistence = ripser.fit_transform(hologram)
+   barcode = plot_diagram(persistence)
 '''
