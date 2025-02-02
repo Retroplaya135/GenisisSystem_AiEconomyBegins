@@ -163,4 +163,6 @@ A True Innovation
    kernel_stats = ebpf.get_system_call_stats()
    ```
 2. **Persistent Homology for Anomaly Detection**
-
+   ```python
+   persistence = ripser.fit_transform(hologram)
+'''
