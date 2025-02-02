@@ -185,3 +185,7 @@ cell "core" {
   llm = "deepseek-r1-32k"
   quantization = "awq"
   energy_profile = "solar-optimized"
+  autoscaling {
+    min_cells = 3
+    max_cells = 9
+```
