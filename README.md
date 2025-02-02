@@ -207,5 +207,7 @@ cell "market_maker" {
 ### Observability
 ```hcl
 cell "observability" {
+  holographic = true
+}
 
 ```
