@@ -172,11 +172,14 @@ A True Innovation
    render_hologram(
        space_dimensions=topology,
        time_dimension=metrics['latency_histogram'],
-       quantum_state=kernel_stats
-)
-'''
+       quantum_state=kernel_stats)
+```
 
 ---
 
 ## ⚡ Configuration (genesis.hcl)
+
+### Core AI Cell
+```hcl
+cell "core" {
 
