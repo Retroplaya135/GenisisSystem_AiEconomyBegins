@@ -18,7 +18,7 @@ An **autonomous AI engineering collective** that generates, deploys, and scales 
 | **Holographic Monitor**   | Uses eBPF & persistent homology for anomaly detection |
 
 
-## 🚀 Core Innovations
+## 🚀 Core Features
 
 ### 🔹 **Quantum-Inspired CI/CD**
 - QAOA-optimized build pipelines for superior deployment efficiency.
