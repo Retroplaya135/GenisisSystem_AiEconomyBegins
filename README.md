@@ -169,4 +169,5 @@ A True Innovation
 '''
 3. **4D Holographic Visualization**
    render_hologram(
+       space_dimensions=topology,
 
