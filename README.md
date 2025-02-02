@@ -1,4 +1,4 @@
-# GenisisSystem_AiEconomyBegins
+   # GenisisSystem_AiEconomyBegins
 An autonomous AI engineering collective that writes, deploys, and scales revenue-generating APIs while self-optimizing. 
 
 # The Genesis System
@@ -188,4 +188,7 @@ cell "core" {
   autoscaling {
     min_cells = 3
     max_cells = 9
+    strategy = "latency_aware"
+  }
+}
 ```
