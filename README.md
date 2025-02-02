@@ -224,3 +224,6 @@ cell "observability" {
    ```
    
 3. **Validate APIs for Security & Resilience**
+   ```bash
+   python testing/adversarial_validator.py
+   ```
