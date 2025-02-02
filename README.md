@@ -231,3 +231,6 @@ cell "observability" {
    ```bash
    python observability/hologram.py
    ```
+---
+
+## 🔥 Architectural Overview
