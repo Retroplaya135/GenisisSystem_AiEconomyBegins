@@ -168,3 +168,5 @@ A True Innovation
    barcode = plot_diagram(persistence)
 '''
 3. **4D Holographic Visualization**
+   render_hologram(
+
