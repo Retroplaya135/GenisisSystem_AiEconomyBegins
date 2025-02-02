@@ -202,3 +202,10 @@ cell "market_maker" {
   arbitrage_bots = 7
 }
 ```
+
+
+### Observability
+```hcl
+cell "observability" {
+
+```
