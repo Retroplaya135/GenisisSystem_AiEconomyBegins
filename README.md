@@ -175,3 +175,8 @@ A True Innovation
        quantum_state=kernel_stats
 )
 '''
+
+---
+
+## ⚡ Configuration (genesis.hcl)
+
