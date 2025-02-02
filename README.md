@@ -171,4 +171,5 @@ A True Innovation
    render_hologram(
        space_dimensions=topology,
        time_dimension=metrics['latency_histogram'],
-
+       quantum_state=kernel_stats
+'''
