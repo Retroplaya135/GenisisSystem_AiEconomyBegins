@@ -211,4 +211,11 @@ cell "observability" {
   spacetime_resolution = "4d"
 }
 
+---
+
+## 📜 How to Run
+1. **Initialize the Genesis System**
+
+
+
 ```
