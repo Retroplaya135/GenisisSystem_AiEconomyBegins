@@ -208,6 +208,7 @@ cell "market_maker" {
 ```hcl
 cell "observability" {
   holographic = true
+  spacetime_resolution = "4d"
 }
 
 ```
