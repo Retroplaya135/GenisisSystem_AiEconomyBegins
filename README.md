@@ -215,6 +215,9 @@ cell "observability" {
 
 ## 📜 How to Run
 1. **Initialize the Genesis System**
+  ```bash
+   python infra/genesis_cell.py
+   ```
 
 
 
