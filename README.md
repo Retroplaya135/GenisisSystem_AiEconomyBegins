@@ -227,3 +227,7 @@ cell "observability" {
    ```bash
    python testing/adversarial_validator.py
    ```
+4. **Monitor System Health**
+   ```bash
+   python observability/hologram.py
+   ```
