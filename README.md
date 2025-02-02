@@ -192,3 +192,8 @@ cell "core" {
   }
 }
 ```
+
+### Market Maker
+```hcl
+cell "market_maker" {
+  bonding_curve = "hyperbolic"
