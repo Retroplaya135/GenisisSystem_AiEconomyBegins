@@ -218,3 +218,7 @@ cell "observability" {
   ```bash
    python infra/genesis_cell.py
    ```
+2. **Deploy AI Services**
+   ```bash
+   python core/neuromorphic_coder.py
+   ```
