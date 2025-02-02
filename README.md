@@ -222,3 +222,5 @@ cell "observability" {
    ```bash
    python core/neuromorphic_coder.py
    ```
+   
+3. **Validate APIs for Security & Resilience**
