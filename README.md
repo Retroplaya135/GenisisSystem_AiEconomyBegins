@@ -173,4 +173,5 @@ A True Innovation
        space_dimensions=topology,
        time_dimension=metrics['latency_histogram'],
        quantum_state=kernel_stats
+)
 '''
