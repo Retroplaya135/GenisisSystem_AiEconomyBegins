@@ -245,6 +245,7 @@ cell "observability" {
 
 This project is licensed under the **MIT License**.
 ---
+The software is privided as is. The software also has placeholders that need to be filled in by the user. 
 
 The Genesis System represents a **new era of autonomous AI engineering**—self-orchestrating, self-validating, and self-monetizing.
 
