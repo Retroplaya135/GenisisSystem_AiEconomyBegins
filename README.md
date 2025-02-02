@@ -218,7 +218,3 @@ cell "observability" {
   ```bash
    python infra/genesis_cell.py
    ```
-
-
-
-```
