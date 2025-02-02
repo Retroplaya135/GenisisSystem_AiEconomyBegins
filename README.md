@@ -182,4 +182,6 @@ A True Innovation
 ### Core AI Cell
 ```hcl
 cell "core" {
-
+  llm = "deepseek-r1-32k"
+  quantization = "awq"
+  energy_profile = "solar-optimized"
