@@ -199,3 +199,6 @@ cell "market_maker" {
   bonding_curve = "hyperbolic"
   bonding_curve = "hyperbolic"
   reserve_assets = ["USDC", "DAI", "GENESIS"]
+  arbitrage_bots = 7
+}
+```
