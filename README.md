@@ -167,3 +167,4 @@ A True Innovation
    persistence = ripser.fit_transform(hologram)
    barcode = plot_diagram(persistence)
 '''
+3. **4D Holographic Visualization**
